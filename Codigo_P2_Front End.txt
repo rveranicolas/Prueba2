@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet " href = "css_trabajo.css">
+    <title>Tienda APIC</title>
+</head>
+<section>
+<body>
+    <div class = "margen"> 
+        <img src = "Imagenes/Presentacion.jpg" height ="400"width ="700">
+    </div>
+    <div class="Quienes Somos ">
+        <h1 class = "QuienesSomos ">Quienes Somos :</h1>
+        <hi id = "Somos">Somos una empresa dedicada a la venta de productos 100% Naturales manteniendo el autentico sabor de la miel y Venta de productos deribados &#128521; </hi>
+        <br><br/>
+        <h2 class = "Miel">¡Miel a la venta! Exquisitos productos al mejor precio &#129309; </h2>
+        <p class ="Ulmo">Miel de ulmo &#127804;: &#128178;4990 el Frasco </p>
+        <p class ="Quillay">Miel de Quillay &#127803; : &#128178;3990 el Frasco</p>
+        <p class ="Cerezo">Miel de Cerezo &#127795;: &#128178;6000 el Frasco</p>
+        <p class ="Azahar">Azahar (Naranjo)&#127795;:&#128178;6990 el Frasco</p>
+        <img src = "Imagenes/Frascos.jpg" height ="200"width ="350">
+        <br><br/>
+        <h2 class = "JaleaReal">Jalea Real</h2>
+        <h3 class = "jaleaR">Jalea Real %&#128175; Natural</h3>
+        <p class ="JReal">Jalea Real (Consumo) : &#128178;9000 el Frasco</p>
+        <img src = "Imagenes/jaleareal.jpg" height ="200"width ="200">
+        <br><br/>
+        <h4 class = "Otros">Productos %&#128175;Naturales a base de miel y jalea real </h4>
+        <p class ="Propolio">Propolio : &#128178;3000 c/unidad </p>
+        <p class ="Shampoo">Shampoo Hecho con jalea real : &#128178;5000 C/unidad</p>
+        <img src = "Imagenes/Productos.jpg" height ="200"width ="400">    
+        <br><br/>
+        <h5 class = "Pagos">Aceptamos todo tipo de Metodos de pago Visa/Mastercard&#128179; , Efectivo&#128181;</h5>
+   
+  
+</section>    
+</body>
+</html>

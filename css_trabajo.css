@@ -1,0 +1,53 @@
+#Stock{
+
+    color:darkred;
+
+}
+
+.Miel{
+   
+    border-style : double;
+    border-color: brown;
+    border-radius : 2px;
+    border-width : 1px ;
+    color :black;
+
+
+}
+
+
+.JaleaReal{
+   
+    border-style : double;
+    border-color: brown;
+    border-radius : 2px;
+    border-width : 2px ;
+    color : black;
+
+}
+
+.Otros{
+   
+    border-style : double;
+    border-color: brown;
+    border-radius : 2px;
+    border-width : 2px ;
+    color :black;
+}
+
+
+.margen{  
+    
+    margin : 20px 20px 30px 40px;
+    padding: 35px 400px 200px 100px;
+    border : whitesmoke 5px;
+    height:  190px;
+    width : 70px;
+    
+} 
+
+section{
+
+    background-image: url("Imagenes/FondoPag2.jpg");
+ 
+ }
